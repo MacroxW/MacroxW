@@ -1,7 +1,9 @@
 <h1 align="center">Hi , I'm Marcos Wendy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Full+Stack+Engineer;Always+learning+new+things"></a>
+  <a href="#">
+	    <img align="right" src="https://avatars.githubusercontent.com/u/65146550?s=400&u=d2b7fd0dca2ad5e3a45542170ed3154ad49627e3&v=4" width="250px" style="border-radius: 4rem">
+  </a>
 </p>
 
 <br>
@@ -103,8 +105,3 @@
 </p>
 
 ---
-
-## 🐍 A Snake Eating my Contributions Graph
-<p align="center">
-	<img src="https://raw.githubusercontent.com/MacroxW/MacroxW/output/github-contribution-grid-snake.svg" alt="snake graph"/>
-</p>
