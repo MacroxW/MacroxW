@@ -31,7 +31,7 @@
 
 ## 🚀 Latest Projects
 
-- 🌐 **Professional Services Platform** → App where users can offer services (lawyers, psychologists, architects, painters, etc.) with booking of virtual/presential meetings.  
+- 🌐 **Personal Project** → A visionary, long-term (2-year) initiative blending intelligent meetings, collaborative AI agents, a private social ecosystem, and a powerful management platform.
 - ☁️ **Cloud Infrastructure (GCP)** → Automated setup of PostgreSQL (Cloud SQL), VM in Compute Engine, and Dockerized microservices via Terraform.  
 - 🤖 **Multi-Agent MCP System** → ChatGPT-like architecture with multiple specialized agents collaborating in real-time using **Azure OpenAI**, orchestrated with **FastAPI** and **MongoDB**.  
 - 🔗 **Real Estate Tokenization** → Microservice in Node.js for property-backed tokens, enabling fluid commercialization and secure smart contracts.  
